@@ -1,0 +1,47 @@
+body {
+    background-color: #F3F1FF;
+}
+header {
+    background-color: #562EFF;
+}
+nav img {
+    height: 30px;
+}
+.logo-name {
+    display: inline;
+}
+.player img {
+    height: 50px;
+}
+.player p {
+    display: inline;
+    margin-left: 10px;
+}
+.h2 {
+    color: #562EFF;
+    margin-bottom: 30px;
+}
+.blog-part {
+    margin-top: 80px;
+}
+.small-text {
+    color: #562EFF;
+}
+.top-part {
+    padding: 40px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+}
+.row {
+    top: 80px;
+}
+.last-card {
+    padding: 30px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 10px 10px 15px lightgray;
+}
+.star img {
+    height: 15px;
+}
